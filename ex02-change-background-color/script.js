@@ -11,5 +11,5 @@ colorGreen.addEventListener('click', function() {
 })
 
 colorBlue.addEventListener('click', function() {
-    document.body.style.backgroundColor = 'blue'
+    document.body.style.backgroundColor = 'pupple'
 })
