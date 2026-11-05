@@ -9,4 +9,8 @@ btn.addEventListener('click', function() {
     textElement.textContent = currentContent
 
     index++
+
+    if(index === greetings.length - 1) {
+        index = 0
+    }
 })
